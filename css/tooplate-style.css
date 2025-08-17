@@ -701,7 +701,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 5rem;
   padding: 2rem;
   text-align: center;
 }
